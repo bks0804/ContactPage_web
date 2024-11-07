@@ -1,0 +1,9 @@
+.brand-logo img {
+  width: 80px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.nav-item {
+  font-size: 23px;
+  margin-left: 20px;
+}

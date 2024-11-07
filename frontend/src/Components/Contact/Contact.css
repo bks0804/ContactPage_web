@@ -1,0 +1,9 @@
+.form-control {
+  position: absolute;
+  width: 40%;
+  left: 30%;
+}
+.form-label {
+  font-size: 23px;
+  font-weight: 500;
+}
